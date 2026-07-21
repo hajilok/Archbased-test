@@ -1,0 +1,1 @@
+sudo ln -sf /usr/include/libayatana-appindicator3-0.1/libayatana-appindicator/app-indicator.h /usr/include/libappindicator/app-indicator.h
